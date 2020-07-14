@@ -1,164 +1,182 @@
-{
-  "candidates": [
-    {
-      "id": 1,
-      "name": "Marissa Williamson",
-      "email": "marissawilliamson@outlook.com",
-      "profile_url": "/resume/mwilliamson-1",
-      "phone": "5555854218",
-      "step": "Moving Forward"
-    },
-    {
-      "id": 2,
-      "name": "Ireland Gillespie",
-      "email": "irelandgillespie@gmail.com",
-      "profile_url": "/resume/igillespie-2",
-      "phone": "5553667715",
-      "step": "Moving Forward"
-    },
-    {
-      "id": 3,
-      "name": "Amaris Escobar",
-      "email": "amarisescobar@yahoo.com",
-      "profile_url": "/resume/aescobar-3",
-      "phone": "5554394105",
-      "step": "Invited to Interview"
-    },
-    {
-      "id": 4,
-      "name": "Judah Norman",
-      "email": "judahnorman@live.com",
-      "profile_url": "/resume/jnorman-4",
-      "phone": "5558026433",
-      "step": "Moving Forward"
-    },
-    {
-      "id": 5,
-      "name": "Amanda Avery",
-      "email": "amandaavery@gmail.com",
-      "profile_url": "/resume/aavery-5",
-      "phone": "5550000774",
-      "step": "Hired"
-    },
-    {
-      "id": 6,
-      "name": "Jovany Rose",
-      "email": "jovanyrose@outlook.com",
-      "profile_url": "/resume/jrose-6",
-      "phone": "5550049757",
-      "step": "Invited to Interview"
-    },
-    {
-      "id": 7,
-      "name": "Natalia Sullivan",
-      "email": "nataliasullivan@hey.com",
-      "profile_url": "/resume/nsullivan-7",
-      "phone": "5552876250",
-      "step": "Moving Forward"
-    },
-    {
-      "id": 8,
-      "name": "Irene Hammond",
-      "email": "irenehammond@hey.com",
-      "profile_url": "/resume/ihammond-8",
-      "phone": "5553080307",
-      "step": "New Candidate"
-    },
-    {
-      "id": 9,
-      "name": "Tyrone Owen",
-      "email": "tyroneowen@yahoo.com",
-      "profile_url": "/resume/towen-9",
-      "phone": "5554204066",
-      "step": "Moving Forward"
-    },
-    {
-      "id": 10,
-      "name": "Freddy Maddox",
-      "email": "freddymaddox@outlook.com",
-      "profile_url": "/resume/fmaddox-10",
-      "phone": "5551446224",
-      "step": "New Candidate"
-    },
-    {
-      "id": 11,
-      "name": "Simon Parker",
-      "email": "simonparker@hey.com",
-      "profile_url": "/resume/sparker-11",
-      "phone": "5556237025",
-      "step": "New Candidate"
-    },
-    {
-      "id": 12,
-      "name": "Dawson Davis",
-      "email": "dawsondavis@mailinator.com",
-      "profile_url": "/resume/ddavis-12",
-      "phone": "5551526442",
-      "step": "New Candidate"
-    },
-    {
-      "id": 13,
-      "name": "Carmelo Green",
-      "email": "carmelogreen@mailinator.com",
-      "profile_url": "/resume/cgreen-13",
-      "phone": "5556423669",
-      "step": "Invited to Interview"
-    },
-    {
-      "id": 14,
-      "name": "Dayana Good",
-      "email": "dayanagood@mailinator.com",
-      "profile_url": "/resume/dgood-14",
-      "phone": "5559012510",
-      "step": "Invited to Interview"
-    },
-    {
-      "id": 15,
-      "name": "Jazmin Leonard",
-      "email": "jazminleonard@hey.com",
-      "profile_url": "/resume/jleonard-15",
-      "phone": "5552747574",
-      "step": "Hired"
-    },
-    {
-      "id": 16,
-      "name": "Rigoberto Holder",
-      "email": "rigobertoholder@live.com",
-      "profile_url": "/resume/rholder-16",
-      "phone": "5554701235",
-      "step": "Invited to Interview"
-    },
-    {
-      "id": 17,
-      "name": "Blaine Reese",
-      "email": "blainereese@hey.com",
-      "profile_url": "/resume/breese-17",
-      "phone": "5551491544",
-      "step": "New Candidate"
-    },
-    {
-      "id": 18,
-      "name": "Taylor Jenkins",
-      "email": "taylorjenkins@gmail.com",
-      "profile_url": "/resume/tjenkins-18",
-      "phone": "5553163926",
-      "step": "Moving Forward"
-    },
-    {
-      "id": 19,
-      "name": "Rolando Daniels",
-      "email": "rolandodaniels@mailinator.com",
-      "profile_url": "/resume/rdaniels-19",
-      "phone": "5559521270",
-      "step": "Invited to Interview"
-    },
-    {
-      "id": 20,
-      "name": "Clarence Robbins",
-      "email": "clarencerobbins@hey.com",
-      "profile_url": "/resume/crobbins-20",
-      "phone": "5556722891",
-      "step": "Invited to Interview"
-    }
-  ]
-}
+[
+  {
+    "name": "Marissa Williamson", 
+    "email": "marissawilliamson@outlook.com", 
+    "phone": "5553339304", 
+    "step": "Drug Test", 
+    "id": 1, 
+    "time_interview": "2020-06-24T11:48:26.488975Z", 
+    "profile_url": "/resume/mwilliamson-1"
+  }, 
+  {
+    "name": "Ireland Gillespie", 
+    "email": "irelandgillespie@hey.com", 
+    "phone": "5551265421", 
+    "step": "Paperwork", 
+    "id": 2, 
+    "time_interview": "2020-06-17T11:48:26.488975Z", 
+    "profile_url": "/resume/igillespie-2"
+  }, 
+  {
+    "name": "Amaris Escobar", 
+    "email": "amarisescobar@gmail.com", 
+    "phone": "5558150846", 
+    "step": "", 
+    "id": 3, 
+    "time_interview": "2020-06-20T11:48:26.488975Z", 
+    "profile_url": "/resume/aescobar-3"
+  }, 
+  {
+    "name": "Judah Norman", 
+    "email": "judahnorman@live.com", 
+    "phone": "5556685931", 
+    "step": "Drug Test", 
+    "id": 4, 
+    "time_interview": "2020-07-07T11:48:26.488975Z", 
+    "profile_url": "/resume/jnorman-4"
+  }, 
+  {
+    "name": "Amanda Avery", 
+    "email": "amandaavery@live.com", 
+    "phone": "5557429082", 
+    "step": "Paperwork", 
+    "id": 5, 
+    "time_interview": "2020-07-11T11:48:26.488975Z", 
+    "profile_url": "/resume/aavery-5"
+  }, 
+  {
+    "name": "Jovany Rose", 
+    "email": "jovanyrose@live.com", 
+    "phone": "5559089827", 
+    "step": "Background Check", 
+    "id": 6, 
+    "time_interview": "2020-06-21T11:48:26.488975Z", 
+    "profile_url": "/resume/jrose-6"
+  }, 
+  {
+    "name": "Natalia Sullivan", 
+    "email": "nataliasullivan@live.com", 
+    "phone": "5550146312", 
+    "step": "", 
+    "id": 7, 
+    "time_interview": "2020-06-24T11:48:26.488975Z", 
+    "profile_url": "/resume/nsullivan-7"
+  }, 
+  {
+    "name": "Irene Hammond", 
+    "email": "irenehammond@gmail.com", 
+    "phone": "5557031903", 
+    "step": "Drug Test", 
+    "id": 8, 
+    "time_interview": "2020-06-15T11:48:26.488975Z", 
+    "profile_url": "/resume/ihammond-8"
+  }, 
+  {
+    "name": "Tyrone Owen", 
+    "email": "tyroneowen@live.com", 
+    "phone": "5559056465", 
+    "step": "Background Check", 
+    "id": 9, 
+    "time_interview": "2020-06-27T11:48:26.488975Z", 
+    "profile_url": "/resume/towen-9"
+  }, 
+  {
+    "name": "Freddy Maddox", 
+    "email": "freddymaddox@live.com", 
+    "phone": "5551083983", 
+    "step": "Drug Test", 
+    "id": 10, 
+    "time_interview": "2020-07-06T11:48:26.488975Z", 
+    "profile_url": "/resume/fmaddox-10"
+  }, 
+  {
+    "name": "Simon Parker", 
+    "email": "simonparker@mailinator.com", 
+    "phone": "5553622990", 
+    "step": "Drug Test", 
+    "id": 11, 
+    "time_interview": "2020-06-20T11:48:26.488975Z", 
+    "profile_url": "/resume/sparker-11"
+  }, 
+  {
+    "name": "Dawson Davis", 
+    "email": "dawsondavis@mailinator.com", 
+    "phone": "5551893905", 
+    "step": "Background Check", 
+    "id": 12, 
+    "time_interview": "2020-07-04T11:48:26.488975Z", 
+    "profile_url": "/resume/ddavis-12"
+  }, 
+  {
+    "name": "Carmelo Green", 
+    "email": "carmelogreen@hey.com", 
+    "phone": "5550464962", 
+    "step": "Background Check", 
+    "id": 13, 
+    "time_interview": "2020-06-28T11:48:26.488975Z", 
+    "profile_url": "/resume/cgreen-13"
+  }, 
+  {
+    "name": "Dayana Good", 
+    "email": "dayanagood@gmail.com", 
+    "phone": "5551009906", 
+    "step": "Drug Test", 
+    "id": 14, 
+    "time_interview": "2020-06-17T11:48:26.488975Z", 
+    "profile_url": "/resume/dgood-14"
+  }, 
+  {
+    "name": "Jazmin Leonard", 
+    "email": "jazminleonard@live.com", 
+    "phone": "5551420114", 
+    "step": "", 
+    "id": 15, 
+    "time_interview": "2020-07-10T11:48:26.488975Z", 
+    "profile_url": "/resume/jleonard-15"
+  }, 
+  {
+    "name": "Rigoberto Holder", 
+    "email": "rigobertoholder@outlook.com", 
+    "phone": "5554929594", 
+    "step": "Drug Test", 
+    "id": 16, 
+    "time_interview": "2020-07-09T11:48:26.488975Z", 
+    "profile_url": "/resume/rholder-16"
+  }, 
+  {
+    "name": "Blaine Reese", 
+    "email": "blainereese@live.com", 
+    "phone": "5555967566", 
+    "step": "Paperwork", 
+    "id": 17, 
+    "time_interview": "2020-06-19T11:48:26.488975Z", 
+    "profile_url": "/resume/breese-17"
+  }, 
+  {
+    "name": "Taylor Jenkins", 
+    "email": "taylorjenkins@hey.com", 
+    "phone": "5556132652", 
+    "step": "Drug Test", 
+    "id": 18, 
+    "time_interview": "2020-06-17T11:48:26.488975Z", 
+    "profile_url": "/resume/tjenkins-18"
+  }, 
+  {
+    "name": "Rolando Daniels", 
+    "email": "rolandodaniels@hey.com", 
+    "phone": "5559308726", 
+    "step": "Drug Test", 
+    "id": 19, 
+    "time_interview": "2020-06-17T11:48:26.488975Z", 
+    "profile_url": "/resume/rdaniels-19"
+  }, 
+  {
+    "name": "Clarence Robbins", 
+    "email": "clarencerobbins@yahoo.com", 
+    "phone": "5559958724", 
+    "step": "Drug Test", 
+    "id": 20, 
+    "time_interview": "2020-07-09T11:48:26.488975Z", 
+    "profile_url": "/resume/crobbins-20"
+  }
+]
