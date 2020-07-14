@@ -67,4 +67,4 @@ for idx, name in enumerate(names):
         "step": random.choice(steps)
     })
 
-print json.dumps(data, indent=2)
+print json.dumps({'candidates': data}, indent=2)
